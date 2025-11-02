@@ -61,12 +61,3 @@ The low and closely matched RMSE values indicate that the model is highly accura
 ## 💡 Inspiration and Data Source
 
 The concept for this project and the structure of the synthetic dataset were **inspired by the Energy Consumption - Linear Regression dataset available on Kaggle**. The data itself was custom-generated to provide a controlled and educational environment for demonstrating the power of the XGBoost Regressor in a regression task.
-
-## 🧑‍💻 Author
-
-[Rafael Gomide]
-
----
-
-*This README was generated to showcase the project's technical depth and visual appeal.*
-
